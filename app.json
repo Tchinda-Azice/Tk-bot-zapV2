@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
+      "value": "Tk Joel",
       "required" :true
     },   
     
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :true,    
-      "value": "𝗚𝗜𝗙𝗧𝗘𝗗 𝗠𝗗"
+      "value": "Tk-Bot"
     }, 
     "IMAGE": {
       "description": "Image for bot",
@@ -57,7 +57,7 @@
     "AUTO_SAVE_STATUS": {
       "description": " Auto save whatsapp status", 
       "required" :true,   
-      "value": "false"
+      "value": "true"
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
@@ -82,12 +82,12 @@
     "MSGS_IN_LOG": {
       "description": "Fill the value true if you want to see Messages in Console.",
       "required" :true,
-      "value": "false"
+      "value": "true"
     },
     "READ_MESSAGE": {
       "description": "Fill the value true if you want bot to read all messages that is auto blue ticks.",
       "required" :true,
-      "value": "false"
+      "value": "true"
     },
     "DISABLE_PM": {
       "description": "Disable bot in pm, Take it false if you wanna run bot in your pm (if MODE is Public)",
@@ -95,14 +95,14 @@
       "required" :true
     },
     "PREFIX": {
-      "description": "Enter your desired prefix for bot.",
+      "description": "-",
       "required" :true,
-      "value": "."
+      "value": "-"
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "254728782591"
+      "value": "237676746654"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -132,7 +132,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ🔥",
+      "value": "Tk-Bot🤖",
       "required": true 
     },
     "PACK_AUTHER": {
